@@ -7,7 +7,7 @@
 
 **1.	The Motivation**
 
-Company X has used production recommenders for many years now. The current recommender, called **Mean of Means**, relies on per-user and per-item rating means and incorporates the global mean for smoothing. Mean of Means provides a significant revenue stream so product managers are hesitant to touch it. The issue is that these systems have been around a long time. The task to explore new solutions. The main goals are to improve the Root Mean Square Error on the predictions, create a working recommender written in **Spark**, and use the **surprise** library to explore other models that could be prototyped for production.
+Company X has used production recommenders for many years now. The current recommender, called **Mean of Means**, relies on per-user and per-item rating means and incorporates the global mean for smoothing. Mean of Means provides a significant revenue stream so product managers are hesitant to touch it. The issue is that these systems have been around a long time. The task is to explore new solutions, with the main goals of improving the Root Mean Square Error on the predictions, creating a working recommender written in **Spark**, and using the **surprise** library to explore other models that could potentially be prototyped for production.
 
 **2.	The Dataset**
 
