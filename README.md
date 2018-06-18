@@ -1,5 +1,4 @@
-# recommender
-**Improving Movie Recommendations with Spark and the Surprise Library**
+## Improving Movie Recommendations with Spark and the Surprise Library
 
 1.	Problem
 2.	The Dataset
